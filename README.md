@@ -1,4 +1,4 @@
-### Hi there 👋
+![profile](https://user-images.githubusercontent.com/78382773/116836562-5d644680-ab9d-11eb-9043-845ed6b1d50d.gif)
 
 <!--
 **Talitadevs/Talitadevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
