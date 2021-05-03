@@ -12,11 +12,11 @@ My softs skills
 
 My hard Skills 
 
-- :html:  HTML
-- :css:  CSS
-- :javascript: Javascript
+- ➡️  HTML
+- ➡️  CSS
+- ➡️ Javascript
 - 📚 JQuery
-- :git: Git e Github
+- ➡️ Git e Github
 - 💲 Dashboard in excel
 - 🕹️ documentation management
 - 📝 elaboration of manual
