@@ -1,16 +1,25 @@
-![profile](https://user-images.githubusercontent.com/78382773/116836562-5d644680-ab9d-11eb-9043-845ed6b1d50d.gif)
+![profile_Dark](https://user-images.githubusercontent.com/78382773/116836983-08293480-ab9f-11eb-926a-cc1d0bce2d45.gif)
 
-<!--
-**Talitadevs/Talitadevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My softs skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗂️ organization
+- 🤓 ease of learning
+- 📢 communicative
+- 👷 work under pressure
+- 🤝🏽 team work
+- 😄 I am funny
+
+My hard Skills 
+
+- :html:  HTML
+- :css:  CSS
+- :javascript: Javascript
+- 📚 JQuery
+- :git: Git e Github
+- 💲 Dashboard in excel
+- 🕹️ documentation management
+- 📝 elaboration of manual
+- 📓 financial management
+- ✒️ preparation of minutes
+- 🌀 project control
