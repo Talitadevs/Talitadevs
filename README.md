@@ -1,4 +1,4 @@
-![profile_Dark](https://user-images.githubusercontent.com/78382773/116836983-08293480-ab9f-11eb-926a-cc1d0bce2d45.gif)
+![profile_Dark](https://user-images.githubusercontent.com/78382773/173171490-d5271b8f-f216-44ff-a504-1e54d9920f66.mp4)
 
 
 My softs skills
@@ -12,12 +12,13 @@ My softs skills
 
 My hard Skills 
 
-- ➡️  HTML
-- ➡️  CSS
+- ➡️ HTML
+- ➡️ CSS
 - ➡️ Javascript
 - 📚 JQuery
 - ➡️ Git e Github
-- 💲 Dashboard in excel
+- ➡️ System Developer Salesforce
+-  💲 Dashboard in excel
 - 🕹️ documentation management
 - 📝 elaboration of manual
 - 📓 financial management
