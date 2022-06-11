@@ -1,4 +1,4 @@
-![profile_Dark](https://user-images.githubusercontent.com/78382773/173171490-d5271b8f-f216-44ff-a504-1e54d9920f66.mp4)
+![TALITA FERNANDES](https://user-images.githubusercontent.com/78382773/173171637-3bca7b6c-7d38-4868-8468-6c940b737010.gif)
 
 
 My softs skills
